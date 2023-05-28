@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[691],{7200:function(e,t,l){l.r(t),l.d(t,{Head:function(){return u}});var n=l(7294);t.default=()=>n.createElement("main",null,n.createElement("h1",null,"Welcome!"),n.createElement("p",null,"This is the website of ",n.createElement("strong",null,"Souhail Merroun.")));const u=()=>n.createElement("title",null,"Home")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-2d329687090c6e777a84.js.map
